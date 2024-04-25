@@ -13,14 +13,6 @@ I'm a passionate software engineer with a keen interest in web dev and AI. I lov
 - 💬 Ask me about anything.
 - 📫 How to reach me: hassanali8812@gmail.com
 
-## Languages and Technologies
-
-- Programming languages: [List of languages you're proficient in]
-- Frontend development: [List of frontend technologies/libraries you're familiar with]
-- Backend development: [List of backend technologies/frameworks you're familiar with]
-- Databases: [List of databases you have experience with]
-- Tools and methodologies: [List of tools and methodologies you're comfortable using, e.g., Git, Agile, etc.]
-
 
 ## GitHub Stats
 
