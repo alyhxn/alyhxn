@@ -7,7 +7,7 @@
 
 I'm a passionate software engineer with a keen interest in web dev and AI. I love building innovative solutions to real-world problems and constantly expanding my knowledge and skills in the field of technology.
 
-- 💼 Currently working at Web Dev as a Play Project.
+- 💼 Currently working as Web Dev at Playproject.
 - 🎓 Graduated with a degree in Computer Science.
 - 🌱 Currently learning design and management.
 - 💬 Ask me about anything.
